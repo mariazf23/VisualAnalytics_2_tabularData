@@ -1,0 +1,4 @@
+"0","ToPlotFreq=as.data.frame(ToPlot)"
+"0","names(ToPlotFreq)=c(""locale"",""pct"")"
+"0","#you have:"
+"0","ToPlotFreq"

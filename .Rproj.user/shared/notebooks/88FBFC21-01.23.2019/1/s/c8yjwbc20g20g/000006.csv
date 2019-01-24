@@ -1,0 +1,2 @@
+"0","ToPlotOrd=prop.table(absoluteTOrd)"
+"0","ToPlotOrd=ToPlotOrd*100"

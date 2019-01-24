@@ -1,0 +1,4 @@
+"0","#annotating"
+"0","text(x=location,y=ToPlot,labels=plotLabels,"
+"0","     pos = 1,# if pos=3, text will be on top of bar"
+"0","     cex = 0.8) "

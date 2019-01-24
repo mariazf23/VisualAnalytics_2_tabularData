@@ -1,0 +1,6 @@
+"0","# the pie plots the table:"
+"0","titleText3='WA needs to fully categorize school locations\n(info from 2018)'"
+"0","#""\n"" starts  a new line"
+"0","pie(ToPlot,"
+"0","    main=titleText3,"
+"0","    sub=sourceText)"

@@ -1,0 +1,1 @@
+"0","hist(eduwa3$Reduced.Lunch,labels = T,xlab=""Reduced Lunch"", xaxt=""n"") "

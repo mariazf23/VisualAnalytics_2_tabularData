@@ -1,0 +1,8 @@
+"0","location=barplot(ToPlot,"
+"0","         col = paletteHereNew,"
+"0","         border=NA,"
+"0","         main=titleText,"
+"0","         sub=sourceText,"
+"0","         xlim=c(0,50), #change to xlim"
+"0","         xlab = '(in %)', #change to xlab"
+"0","         horiz = T)"

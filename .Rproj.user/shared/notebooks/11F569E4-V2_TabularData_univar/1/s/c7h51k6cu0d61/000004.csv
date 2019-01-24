@@ -1,0 +1,1 @@
+"0","abline(v=mean(meanValues),lty=3,lwd=3,col='blue')"

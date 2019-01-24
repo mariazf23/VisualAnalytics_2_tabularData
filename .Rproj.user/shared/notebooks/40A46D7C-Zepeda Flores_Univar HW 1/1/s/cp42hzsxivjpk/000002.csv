@@ -1,0 +1,8 @@
+"0","location=barplot(ToPlot,"
+"0","         col = paletteHereNew,"
+"0","         border=NA,"
+"0","         main=titleText, # no sub here!"
+"0","         xlim=c(0,50), "
+"0","         cex.names = 0.5,"
+"0","         xlab = '(in %)', "
+"0","         horiz = T)"

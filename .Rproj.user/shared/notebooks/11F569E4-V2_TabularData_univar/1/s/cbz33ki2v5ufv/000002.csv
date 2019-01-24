@@ -1,0 +1,4 @@
+"0","eduwa3$redLunchOrd=cut(eduwa3$Reduced.Lunch,"
+"0","                       breaks = dataHist$breaks,"
+"0","                       include.lowest = T,"
+"0","                       ordered_result = T)"

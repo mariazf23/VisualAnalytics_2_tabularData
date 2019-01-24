@@ -1,0 +1,6 @@
+"0","base = ggplot(tableFreq, aes(x=locale,pct)) "
+"0","lolliplot1=base + geom_segment(aes(y = 0, "
+"0","                                   x = locale, "
+"0","                                   yend = pct, "
+"0","                                   xend = locale), color = ""grey50"") "
+"0","lolliplot1 + geom_point()"

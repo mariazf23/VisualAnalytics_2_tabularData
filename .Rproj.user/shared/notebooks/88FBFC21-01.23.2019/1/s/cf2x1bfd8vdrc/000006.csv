@@ -1,0 +1,4 @@
+"0","tableFreq=as.data.frame(ToPlot)"
+"0","names(tableFreq)=c(""OFFENSE"",""pct"")"
+"0","#you have:"
+"0","tableFreq"

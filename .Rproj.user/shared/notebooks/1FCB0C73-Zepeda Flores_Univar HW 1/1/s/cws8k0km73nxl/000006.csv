@@ -1,0 +1,4 @@
+"0","plot2 = plot1 + scale_y_continuous(breaks=c(0,10, 25,40,50),"
+"0","                                 limits = c(0, 50), # expand = c(0, 0),"
+"0","                                 labels=scales::unit_format(suffix = '%'))  "
+"0","plot2"

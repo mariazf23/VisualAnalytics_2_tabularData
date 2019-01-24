@@ -1,0 +1,5 @@
+"0","# barplot plots the table too"
+"0","barplot(ToPlot,"
+"0","         col = paletteHere,"
+"0","         main=titleText,"
+"0","         sub=sourceText)"

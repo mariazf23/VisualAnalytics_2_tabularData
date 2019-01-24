@@ -1,0 +1,6 @@
+"0","# plotting"
+"0","pie(x=ToPlot,#table"
+"0","    col = paletteHere, "
+"0","    labels = plotLabels,"
+"0","    main=titleText,"
+"0","    sub=sourceText)"

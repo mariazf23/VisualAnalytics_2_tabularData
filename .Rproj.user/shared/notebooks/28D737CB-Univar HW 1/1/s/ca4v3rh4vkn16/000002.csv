@@ -1,0 +1,5 @@
+"0","tableFreqOrder=tableFreq[order(tableFreq$pct),]"
+"0","base = ggplot(tableFreqO, aes(locale,pct)) "
+"0","plot1=base + geom_bar(aes(x = locale,"
+"0","                 y = pct), color = ""gray"") "
+"0","plot2 + scale_x_discrete(limits=tableFreqOrder$locale) # key element"

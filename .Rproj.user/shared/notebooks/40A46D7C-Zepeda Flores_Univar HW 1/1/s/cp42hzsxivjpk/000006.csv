@@ -1,0 +1,4 @@
+"0","# subtitle"
+"0","title(sub=sourceText, "
+"0","      adj=0,#adj=1 aligns to rigth."
+"0","      cex.sub=0.7) #shrinking text"

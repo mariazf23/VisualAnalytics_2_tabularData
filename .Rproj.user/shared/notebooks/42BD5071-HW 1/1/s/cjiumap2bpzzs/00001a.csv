@@ -1,0 +1,4 @@
+"0","base= ggplot(data = tableFreq[order(-tableFreq$pct),], "
+"0","             aes(x = locale,"
+"0","                 y = pct)) "
+"2","‘-’ not meaningful for factors"

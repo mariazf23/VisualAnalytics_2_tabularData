@@ -1,0 +1,3 @@
+"0","plot1 = base + geom_bar(fill =""gray"","
+"0","                        stat = 'identity') # y is just what it is!"
+"0","plot1"

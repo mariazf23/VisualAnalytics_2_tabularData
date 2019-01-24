@@ -1,0 +1,6 @@
+"0","#ggplot"
+"0","base= ggplot(eduwa3,aes(x = Reduced.Lunch))  "
+"0","h1= base + geom_histogram(binwidth = 20,boundary=0) #changing width"
+"0","h1= h1 + stat_bin(binwidth = 20, aes(label=..count..), "
+"0","                  geom = ""text"",boundary = 0,vjust=-0.5)"
+"0","h1"

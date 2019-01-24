@@ -1,0 +1,5 @@
+"0","# keeping strategy 2: "
+"0","meanValues=tapply(eduwa4$Student.Teacher.Ratio, "
+"0","                  eduwa4$County, "
+"0","                  mean)"
+"0","hist(meanValues)"

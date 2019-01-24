@@ -1,0 +1,2 @@
+"0","eduwa3=eduwa[complete.cases(eduwa$Reduced.Lunch),]"
+"0","dataHist=hist(eduwa3$Reduced.Lunch) #saving info in dataHist"

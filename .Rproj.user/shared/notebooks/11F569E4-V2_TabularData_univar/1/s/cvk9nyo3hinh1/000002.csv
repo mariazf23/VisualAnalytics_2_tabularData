@@ -1,0 +1,6 @@
+"0","plot6 = plot5 + geom_text(aes(y = pct ,"
+"0","                            label = paste0(round(pct,2), '%')),"
+"0","                        vjust=1, # if flipping 'hjust'"
+"0","                        size = 3)"
+"0","# wanna flip the plot?"
+"0","plot6 #+ coord_flip()"

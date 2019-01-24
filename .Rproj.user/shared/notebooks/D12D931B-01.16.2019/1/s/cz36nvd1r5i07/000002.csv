@@ -1,0 +1,3 @@
+"0","# the pie plots the table:"
+"0","ToPlot=prop.table(absoluteT)"
+"0","pie(ToPlot)"

@@ -1,0 +1,3 @@
+"0","# customizong tick values"
+"0","xtick<-c(0,10,25,40,50)"
+"0","axis(side=1, at=xtick, labels = xtick,cex.axis=0.8)"

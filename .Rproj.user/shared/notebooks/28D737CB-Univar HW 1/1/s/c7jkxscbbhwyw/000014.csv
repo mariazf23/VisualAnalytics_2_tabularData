@@ -1,0 +1,6 @@
+"0","# customizing tick values"
+"0","newXvalues<-c(0,10,25,40,50) # you just want to show this on the axis"
+"0","axis(side=1, "
+"0","     at=newXvalues, "
+"0","     labels = newXvalues,"
+"0","     cex.axis=0.8)"

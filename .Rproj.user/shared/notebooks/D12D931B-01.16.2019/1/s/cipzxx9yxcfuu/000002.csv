@@ -1,0 +1,6 @@
+"0","# the pie plots the table:"
+"0","titleText='Where are Public Schools located in WA in 2019?'"
+"0","sourceText='Source: US Department of Education'"
+"0","pie(ToPlot,"
+"0","    main=titleText,"
+"0","    sub=sourceText)"

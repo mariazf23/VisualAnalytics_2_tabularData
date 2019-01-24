@@ -1,0 +1,5 @@
+"0","# the pie plots the table:"
+"0","titleText2='WA still has schools locations unknown \n (info from 2018)'"
+"0","pie(ToPlot,"
+"0","    main=titleText2,"
+"0","    sub=sourceText)"

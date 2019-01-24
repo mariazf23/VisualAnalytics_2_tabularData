@@ -1,0 +1,5 @@
+"0","plot2 = plot1 + labs(title=titleText2,"
+"0","                     x =NULL, "
+"0","                     y = NULL,"
+"0","                     caption = sourceText)"
+"0","plot2"

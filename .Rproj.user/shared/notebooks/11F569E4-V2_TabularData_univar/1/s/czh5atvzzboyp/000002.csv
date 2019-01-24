@@ -1,0 +1,3 @@
+"0","base= ggplot(eduwa3,aes(x = Reduced.Lunch))  "
+"0","h1= base + geom_histogram()"
+"0","h1 "

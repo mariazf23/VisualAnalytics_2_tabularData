@@ -1,0 +1,3 @@
+"0","link='https://github.com/qziegler/VisualAnalytics_2_tabularData/raw/master/data_forclass/FY2017_DCCrimeData.csv'"
+"0","#getting the data TABLE from the file in the cloud:"
+"0","mydata=read.csv(link)"
